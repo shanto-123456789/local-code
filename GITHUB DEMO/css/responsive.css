@@ -1,0 +1,508 @@
+/*=========================================================
+  Start Header
+=========================================================*/
+@media(max-width:992px){
+}
+/*-------------------------------------------------------------------------*/
+@media(max-width:768px){
+  header {
+    padding: 50px 0px;
+  }
+  ul {
+    margin-top: 20px;
+  }
+  .mt-5, .my-5 {
+    margin-top: 5rem !important;
+  }
+}
+/*-------------------------------------------------------------------------*/
+@media(max-width:556px){
+  .mt-5, .my-5 {
+    margin-top: .5rem !important;
+  }
+}
+/*-------------------------------------------------------------------------*/
+@media(max-width:480px){
+  .mt-5, .my-5 {
+    padding-bottom: 0rem !important;
+  }
+}
+/*-------------------------------------------------------------------------*/
+@media(max-width:320px){
+  header .header-info h3,p{
+    font-size: 24px;
+  }
+  header .header-info h1{
+    font-size: 37px;
+  }
+  header .header-info p{
+    letter-spacing: 3px;
+  
+  }
+  
+}
+/*-------------------------------------------------------------------------*/
+@media(max-width:290px){
+  header .header-info h1{
+    font-size: 34px;
+  }
+}
+/*End Header*/
+
+/* Start Cab 
+*************************************************************************/
+
+@media(max-width:768px){
+  .cab{
+    height: 1120px;
+  }
+  .cab-right{
+    margin: auto;
+  } 
+  .pt-5, .py-5{
+    padding-top: 0rem !important;
+  }
+}
+/*---------------------------------- 556px -----------------------------*/
+@media(max-width:556px){
+  .cab{
+    height: 1020px;
+  }
+  .row.text-center {
+    margin-top: 30px;
+}
+  .cab-left{
+    padding-top: 50px !important;
+  }
+  .cab .cab-left h1 {
+    font-size: 36px;
+}
+}
+/*---------------------------------- 480px -----------------------------*/
+@media(max-width:480px){
+  .cab{
+    height: 1050px;
+  }
+  .row.text-center {
+    margin-top: 30px;
+}
+  .cab-left{
+    margin-bottom: 50px !important;
+  }
+  .cab-left p{
+    padding: 20px 0px !important;
+  }
+  .cab .cab-left h1 {
+    font-size: 36px;
+}
+}
+/*---------------------------------- 320px -----------------------------*/
+@media(max-width:320px){
+
+header {
+    height: 570px;
+}
+.row.text-center {
+    margin-top: 30px;
+}
+header .header-info h3, p {
+  font-size: 20px;
+}
+header .header-info h1 {
+  font-size: 30px;
+}
+header .header-info p {
+  letter-spacing: 3px;
+  font-size: 15px;
+}
+  .cab {
+    height: 1080px;
+  }
+  .cab-left{
+    padding: 20px !important;
+  }
+  .cab .cab-left h4 {
+    font-size: 25px;
+  }
+  .cab-left p{
+    font-size: 16.5px ;
+  }
+  .cab .cab-left h1{
+    font-size: 26px;
+  }
+  .cab-right {
+    width: 280px !important;
+  }
+  .cab-right h1{
+    font-size: 33px;
+  }
+
+}
+/*---------------------------------- 290px -----------------------------*/
+@media(max-width:290px){
+  header {
+    height: 570px;
+}
+.row.text-center {
+    margin-top: 30px;
+}
+header .header-info h3, p {
+  font-size: 16px;
+}
+header .header-info h1 {
+  font-size: 25px;
+}
+header .header-info p {
+  letter-spacing: 3px;
+  font-size: 12px;
+}
+  .cab {
+    height: 1240px;
+  }
+  .cab-right {
+    width: 260px !important;
+}
+}
+
+/* Start End 
+*************************************************************************/
+
+/******************************** Start Card ***************************/
+
+/*---------------------------------- 992px -----------------------------*/
+@media(max-width:992px){
+  .card-star img{
+    margin-left: 71px;
+  }
+}
+/*---------------------------------- 768px -----------------------------*/
+@media(max-width:768px){
+  .card-info {
+    padding-top: 40px;
+  }
+  .card-star img{
+    margin-left: 271px;
+  }
+  .card {
+    margin-top: 120px;
+  }
+}
+/*---------------------------------- 556px -----------------------------*/
+@media(max-width:556px){
+  .card-star img{
+    margin-left: 189px;
+  }
+}
+/*---------------------------------- 480px -----------------------------*/
+@media(max-width:480px){
+  .card-star img{
+    margin-left: 151px;
+  }
+  .card{
+    margin-bottom: 30px;
+  }
+}
+/*---------------------------------- 320px -----------------------------*/
+@media(max-width:320px){
+  .card-star img{
+    margin-left: 71px;
+  }
+  .card{
+    margin-bottom: 30px;
+  }
+}
+/*---------------------------------- 290px -----------------------------*/
+@media(max-width:290px){
+  .card-star img{
+    margin-left: 56px;
+  }
+}
+
+/********************************* End Card ***************************/
+
+/********************************* Start Content ***************************/
+/*---------------------------------- 992px -----------------------------*/
+@media(max-width:992px){
+  .content-text p{
+    font-size: 15px;
+  }
+}
+/*---------------------------------- 768px -----------------------------*/
+@media(max-width:768px){
+  .content {
+    height: 1000px;
+  }
+  .content-text p {
+    font-size: 17px;
+  }
+  .content-info{
+    margin-top: 60px;
+  }
+}
+/*---------------------------------- 556px -----------------------------*/
+@media(max-width:556px){
+  .content{
+    height: 900px;
+  }
+  .content .button {
+    margin-top: 24px;
+  }
+}
+
+/*---------------------------------- 480px -----------------------------*/
+@media(max-width:480px){
+  .content{
+    height: 1020px;
+  }
+}
+/*---------------------------------- 320px -----------------------------*/
+@media(max-width:320px){
+  .content{
+    height: 1015px;
+  }
+  .content .info h2{
+    font-size: 27px;
+  }
+  .content .info h1 {
+    font-size: 30px;
+  }
+  .content-text h4{
+    font-size: 17px;
+  }
+  .content-text p {
+    font-size: 14px;
+  }
+}
+/*---------------------------------- 290px -----------------------------*/
+@media(max-width:290px){
+  .content{
+    height: 1200px;
+  }
+}
+
+
+
+/********************************* End Content ***************************/
+
+/********************************* Start Service ***************************/
+
+/*---------------------------------- 992px -----------------------------*/
+@media(max-width:992px){
+}
+/*---------------------------------- 768px -----------------------------*/
+@media(max-width:768px){
+  .service-left{
+    padding: 0px;
+  }
+  .mt-5, .my-5 {
+    margin-top: 2rem !important;
+  }
+}
+/*---------------------------------- 556px -----------------------------*/
+@media(max-width:556px){
+  .service-left {
+     text-align: center;
+   }
+}
+
+/*---------------------------------- 480px -----------------------------*/
+@media(max-width:480px){
+  .service-left {
+     text-align: center;
+   }
+}
+/*---------------------------------- 320px -----------------------------*/
+@media(max-width:320px){
+  .service .service-info h2{
+    font-size: 30px;
+  }
+  .service .service-info h1{
+    font-size: 27px;
+  }
+ .service-left {
+  text-align: center;
+}
+}
+/*---------------------------------- 290px -----------------------------*/
+@media(max-width:290px){
+ .service-left {
+    text-align: center;
+  }
+}
+
+/********************************* End Service ***************************/
+
+/********************************* Start Testim ***************************/
+
+@media(max-width:992px){
+}
+/*---------------------------------- 768px -----------------------------*/
+@media(max-width:768px){
+  .testim {
+    padding: 70px 0;
+    height: 810px;
+  }
+  .testim-box {
+    background-color: #040707;
+    padding: 40px;
+    border-radius: 50px;
+    margin-top: 50px;
+  }
+  .testim-box p{
+    font-size: 15px;
+  }
+}
+/*---------------------------------- 556px -----------------------------*/
+@media(max-width:556px){
+  .testim-box p{
+    font-size: 14px;
+  }
+}
+
+/*---------------------------------- 480px -----------------------------*/
+@media(max-width:480px){
+}
+/*---------------------------------- 320px -----------------------------*/
+@media(max-width:320px){
+  .testim {
+    padding: 70px 0;
+    height: 760px;
+  }
+  .testim-face img{
+    height: 60px;
+
+  }
+  .testim-face h4 {
+    font-size: 17px;
+  }
+  .testim-face h6{
+    font-size: 14px;
+  }
+  .testim-face h4,h6 {
+    margin-left: 80px;
+  }
+  .testim-info h1{
+    font-size: 22px;
+  }
+  .testim-info h2{
+    font-size: 30px;
+  }
+  .testim-info {
+    margin: -25px 0px;
+    margin-bottom: -40px;
+  }
+}
+/*---------------------------------- 290px -----------------------------*/
+@media(max-width:290px){
+  .testim {
+    padding: 70px 0;
+    height: 800px;
+  }
+}
+
+
+
+
+
+
+/********************************* End Testim ***************************/
+
+/********************************* Start Contact ***************************/
+
+@media(max-width:992px){
+}
+/*---------------------------------- 768px -----------------------------*/
+@media(max-width:768px){
+  .testim {
+    padding: 70px 0;
+    height: 810px;
+  }
+  .testim-box {
+    background-color: #040707;
+    padding: 40px;
+    border-radius: 50px;
+    margin-top: 50px;
+  }
+  .testim-box p{
+    font-size: 15px;
+  }
+}
+/*---------------------------------- 556px -----------------------------*/
+@media(max-width:556px){
+  .testim-box p{
+    font-size: 14px;
+  }
+}
+
+/*---------------------------------- 480px -----------------------------*/
+@media(max-width:480px){
+}
+/*---------------------------------- 320px -----------------------------*/
+@media(max-width:320px){
+  .testim {
+    padding: 70px 0;
+    height: 760px;
+  }
+  .testim-face img{
+    height: 60px;
+
+  }
+  .testim-face h4 {
+    font-size: 17px;
+  }
+  .testim-face h6{
+    font-size: 14px;
+  }
+  .testim-face h4,h6 {
+    margin-left: 80px;
+  }
+  .testim-info h1{
+    font-size: 22px;
+  }
+  .testim-info h2{
+    font-size: 30px;
+  }
+  .testim-info {
+    margin: -25px 0px;
+    margin-bottom: -40px;
+  }
+}
+/*---------------------------------- 290px -----------------------------*/
+
+
+/********************************* End Contact ***************************/
+
+
+
+
+
+/********************************* Start Info ***************************/
+
+@media(max-width:992px){
+}
+/*---------------------------------- 768px -----------------------------*/
+@media(max-width:768px){
+.main-info h3{
+font-size: 25px;
+}
+}
+/*---------------------------------- 556px -----------------------------*/
+@media(max-width:556px){
+}
+
+/*---------------------------------- 480px -----------------------------*/
+@media(max-width:480px){
+}
+/*---------------------------------- 320px -----------------------------*/
+@media(max-width:320px){
+  .main-info h1{
+    font-size: 35px;    
+  }
+}
+/*---------------------------------- 290px -----------------------------*/
+@media(max-width:290px){
+  .main-info h1{
+    font-size: 30px;    
+  }
+}
+/********************************* End Info ***************************/
